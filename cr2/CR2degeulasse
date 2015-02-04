@@ -1,0 +1,25 @@
+À faire
+
+Trouver un nom
+Reformuler le sujet
+Installer un moteur d'échec, un client graphique et tester
+
+Commencer les spécifications fonctionnelles (après la mise au clair du protocole)
+  brainstorming : liste des fonctionnalitées attendus de la production
+  les regrouper en familles (en tout 2 à 6 pages avec des figues)
+    exemple : quel protocole, "capable de se connecter à un client graphique"
+
+État de l'art : 
+
+  Refaire astar (avec des figures)
+  Regarder les protocoles (moteur/client)
+    en choisir un (le plus simple), trouver la doc...
+  Choisir un client graphique (ou en faire un)
+
+
+Observations :
+
+LibreOffice pour les livrables (pas de tex)
+Les livrables sont pour la soutenance
+Les outils doivent être maîtrisés par tout le monde : make, svn
+Test unitaire en c dans des fichiers séparés
