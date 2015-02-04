@@ -1,0 +1,7 @@
+#Files ignored by git when commiting
+*.aux
+*.dvi
+*.log
+*.ps
+*.toc
+*.*~
